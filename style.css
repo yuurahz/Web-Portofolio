@@ -336,7 +336,7 @@ body.dark-theme{
   background-color: var(--putih);
   position: absolute;
   left: 0;
-  bottom: -6px;
+  bottom: -8px;
   transition: width .3s;
 }
 
@@ -1209,7 +1209,7 @@ body.dark-theme{
   .nav__link-button{
     background-color: var(--black-color);
     color: var(--putih);
-    padding: 18px 24px;
+    padding: 16px 22px;
   }
 
   nav__link-button:hover{
