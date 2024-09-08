@@ -336,7 +336,7 @@ body.dark-theme{
   background-color: var(--putih);
   position: absolute;
   left: 0;
-  bottom: -8px;
+  bottom: -6px;
   transition: width .3s;
 }
 
