@@ -422,11 +422,6 @@ body.dark-theme{
   transition: filter sepia saturate hue-rotate brightness contrast 4s;
 }
 
-.home__arrow{
-  left: 40%;
-  bottom: -57px;
-}
-
 .home__line{
   bottom: -.5rem;
   right: -2rem;
