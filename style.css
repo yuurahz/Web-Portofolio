@@ -363,7 +363,7 @@ body.dark-theme{
 }
 
 .home__name{
-  font-size: var(--big-font-size);
+  font-size: var(--biggest-font-size);
   text-align: center;
 }
 
