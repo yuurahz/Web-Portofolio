@@ -363,7 +363,7 @@ body.dark-theme{
 }
 
 .home__name{
-  font-size: var(--biggest-font-size);
+  font-size: var(--small-font-size);
   text-align: center;
 }
 
@@ -566,44 +566,6 @@ body.dark-theme{
 .button__ghost:hover{
   border: 3px solid var(--first-color);
 
-}
-
-.about__info{
-  padding-left: 20px;
-}
-
-.about__description{
-  position: relative;
-  color: var(--title-color);
-  margin-bottom: 20px;
-}
-
-.about__description::after{
-  content: '';
-  width: 10px;
-  height: 2px;
-  /*background-color: var(--title-color);*/
-  position: absolute;
-  left: -18px;
-  top: 8px;
-  animation-name: backgroundColorPalette;
-	animation-duration: 5s;
-	animation-iteration-count: infinite;
-	animation-direction: alternate;
-	animation-timing-function: linear; 
-}
-
-.about__list{
-  list-style: square;
-  color: var(--title-color);
-  margin-bottom: 48px;
-}
-
-.about__buttons{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  column-gap: 16px;
 }
 
 .skills__container{
